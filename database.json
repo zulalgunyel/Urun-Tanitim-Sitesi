@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "color": "pembe",
+        "name":"Samsung telefon",
+        "price": "60 bin tl",
+        "discount": "true",
+        "img": "samsung.jpg"
+    },
+    {
+        "id":2,
+        "color": "beyaz",
+        "name":"Arçelik buzdolabı",
+        "price": "17 bin tl",
+        "discount": "true",
+        "img": "buzdolabi.webp"
+    },
+    {
+        "id":3,
+        "color": "siyah",
+        "name":"Xiaomi airpods",
+        "price": "500 tl",
+        "discount": "true",
+        "img": "kulaklik.webp"
+    },
+    {
+        "id":4,
+        "color": "beyaz",
+        "name":"Bosch camasir makinesi",
+        "price": "24 bin tl",
+        "discount": "false",
+        "img": "camasirmakinesi.webp"
+    }
+]
